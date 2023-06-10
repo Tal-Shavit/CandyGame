@@ -1,8 +1,7 @@
 # HW1
 
 # Game instructions
-You are a mouth and need to escape from the poisons and collect the candy.
-If you ate a poison you lose a life, but if you ate candy your score will added by 10 points.
+You are a mouth trying to escape from the poisons and collect candy. If you consume a poison, you lose a life, but if you consume candy, your score will increase by 10 points.
 
 # How To Play
 Move left and right to avoid a poison and collect the candy
